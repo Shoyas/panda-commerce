@@ -47,3 +47,13 @@
 .card{
     box-shadow: 5px 5px 10px lightgrey;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: gray;
+}
+footer{
+    color: grey;
+    text-align: center;
+}
