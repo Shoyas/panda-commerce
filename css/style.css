@@ -17,3 +17,33 @@
 .container{
     margin-bottom: 100px;
 }
+.cat_1{
+    background-color: #FFA500;
+}
+.cat_2{
+    background-color: #DA70D6;
+}
+.cat_3{
+    background-color: #0000FF;
+}
+.cat_1, .cat_2, .cat_3{
+
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat_1 h1, .cat_2 h1, .cat_3 h1{
+    font-size: 30px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card-footer{
+    border-top: 0px solid white;
+    background-color: white;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+}
